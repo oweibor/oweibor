@@ -1,6 +1,6 @@
 ### Hi there, I'm Tamara - aka [alias][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Brother, Developer, and Teacher!!
 
 - 🔭 I am working on my first course, WordPress Development for non-Techies
 - 🌱 I’m currently learning everything 🤣
