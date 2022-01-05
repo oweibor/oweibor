@@ -1,6 +1,6 @@
 ### <span style="font-family:roboto; ">Hi there, I'm Tamara - aka [alias][website]</span> 👋
 
-## I'm a Brother, Developer, and Teacher!!
+## I'm a Brother, Developer, and Teacher!! <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
 
 - 🔭 I am working on my first course, WordPress Development for non-Techies
 - 🌱 I’m currently mastering the Angular framework and everything else🤣
