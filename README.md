@@ -43,7 +43,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://tmarasoft.com)
+➡️ [more blog posts...](https://tamarasoft.com)
 
 [alias]: codeSpider
 [github]: https://github.com/oweibor/oweibor/
