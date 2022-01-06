@@ -25,6 +25,7 @@
 [<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
 [<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
+[<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>][angular]
 [<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
 [<img align="left" alt="Gatsby" width="36px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][github]
 [<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
@@ -89,16 +90,13 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
-- [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
-- [Top 10 Web Hosting Companies to secure your WordPress website in 2022](https://tamarasoft.com/top-10-web-hosting-companies-for-your-wordpress-website-in-2022/)
-- [20 Common Web Application Security Vulnerabilities and their fixes.](https://tamarasoft.com/20-common-web-application-security-vulnerabilities-and-their-fixes/)
-- [WordPress Security: The Ultimate Beginners to Advanced Guide to Protect your website in 2022.](https://tamarasoft.com/wordpress-security/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://tamarasoft.com)
 
 [alias]: codeSpider
+[angular]: https://angular.io
 [github]: https://github.com/oweibor/oweibor/
 [website]: https://tamarasoft.com
 [twitter]: https://twitter.com/oweibor
