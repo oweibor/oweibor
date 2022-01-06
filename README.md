@@ -3,10 +3,10 @@
 ## I'm a Brother, Developer, and Teacher!!
 
 - 🍰 I am working on my first course, WordPress Development for non-Techies
-- 🅰 I’m currently mastering the Angular framework and everything else🤣
-- 🌺 I’m looking to collaborate with other content creators
+- 💪 I’m currently mastering the Angular framework and everything else🤣
+- 🎯 I’m looking to collaborate with other content creators
 - ✅ 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I ❤️ 🎵
+- ⚡ Fun fact: I ❤️ 🎵🏀
 
 ### Connect with me:
 
