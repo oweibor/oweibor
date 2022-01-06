@@ -89,7 +89,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
+- [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
+- [Top 10 Web Hosting Companies to secure your WordPress website in 2022](https://tamarasoft.com/top-10-web-hosting-companies-for-your-wordpress-website-in-2022/)
+- [20 Common Web Application Security Vulnerabilities and their fixes.](https://tamarasoft.com/20-common-web-application-security-vulnerabilities-and-their-fixes/)
+- [WordPress Security: The Ultimate Beginners to Advanced Guide to Protect your website in 2022.](https://tamarasoft.com/wordpress-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://tamarasoft.com)
