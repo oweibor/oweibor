@@ -47,6 +47,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
 - [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
 - [Top 10 Web Hosting Companies to secure your WordPress website in 2022](https://tamarasoft.com/top-10-web-hosting-companies-for-your-wordpress-website-in-2022/)
@@ -67,9 +68,8 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=oweibor&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-<figure><embed src="https://wakatime.com/share/@oweibor/f44de46d-4bb5-489b-86b9-9c9225c277d4.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary><b>👦&nbsp;&nbsp;About&nbsp;Me</b></summary>
