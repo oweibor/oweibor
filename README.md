@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.tamarasoft.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Brother, Developer, and Teacher!!
+## I'm a WordPress Developer, and Teacher!!
 
 - 🍰 I am working on my first course, WordPress Development for non-Techies
 - 💪 I’m currently mastering the Angular framework and everything else🤣
