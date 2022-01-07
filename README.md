@@ -69,6 +69,9 @@
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
+```text
+Markdown   1 hr 15 mins    ████████████████████████▓   98.92 % 
+```
 <!--END_SECTION:waka-->
 
 <details>
