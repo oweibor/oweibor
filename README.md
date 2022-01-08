@@ -1,6 +1,8 @@
 [![Website tamarasoft.com](https://img.shields.io/website?label=Tamarasoft.com&style=for-the-badge&url=https%3A%2F%2Ftamarasoft)](https://tamarasoft.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tariri16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftariri16&screen_name=tariri16)
 
+[![Website tamarasoft.com](https://img.shields.io/website-up-down-green-red/http/tamarasoft.com.svg)](http://tamarasoft.com/)
+
 ### Hi there <a href="https://www.tamarasoft.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm a WordPress Developer, and Teacher!!
@@ -54,6 +56,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
 - [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
 - [Top 10 Web Hosting Companies to secure your WordPress website in 2022](https://tamarasoft.com/top-10-web-hosting-companies-for-your-wordpress-website-in-2022/)
@@ -75,12 +78,14 @@
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 01 January, 2022 - 07 January, 2022
 
-Markdown   ███████████████████████████████▒░░░░░░░░░   76.47 % 
-YAML       █████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   22.72 % 
+Markdown   ███████████████████████████████▒░░░░░░░░░   76.47 %
+YAML       █████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   22.72 %
 ```
+
 <!--END_SECTION:waka-->
 
 <details>
