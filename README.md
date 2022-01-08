@@ -9,8 +9,8 @@
 - 💪 I’m currently mastering the Angular framework and everything else🤣
 - 🎯 I’m looking to collaborate with other content creators
 - ✅ 2022 Goals: Contribute more to Open Source projects
-- 🍄 Read more about my projects at [tamarasoft.com](https://www.tamarasoft.com/portfolio)
 - ⚡ Fun fact: I ❤️ 🎵🏀
+- 🍄 Read more about my projects at [tamarasoft.com](https://www.tamarasoft.com/portfolio) ![Security Headers](https://img.shields.io/security-headers?style=for-the-badge&url=https%3A%2F%2Ftamarasoft.com)
 
 ### Connect with me:
 
