@@ -10,7 +10,7 @@
 - 🎯 I’m looking to collaborate with other content creators
 - ✅ 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I ❤️ 🎵🏀
-- 🍄 Read more about my projects at [tamarasoft.com](https://www.tamarasoft.com/portfolio) ![Security Headers](https://img.shields.io/security-headers?style=for-the-badge&url=https%3A%2F%2Ftamarasoft.com)
+- 🍄 Read more about my projects at [tamarasoft.com](https://www.tamarasoft.com/portfolio) ![Security Headers](https://img.shields.io/security-headers?style=flat-square&url=https%3A%2F%2Ftamarasoft.com)
 
 ### Connect with me:
 
@@ -54,6 +54,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
 - [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
 - [Top 10 Web Hosting Companies to secure your WordPress website in 2022](https://tamarasoft.com/top-10-web-hosting-companies-for-your-wordpress-website-in-2022/)
@@ -75,12 +76,14 @@
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 01 January, 2022 - 07 January, 2022
 
-Markdown   ███████████████████████████████▒░░░░░░░░░   76.47 % 
-YAML       █████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   22.72 % 
+Markdown   ███████████████████████████████▒░░░░░░░░░   76.47 %
+YAML       █████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   22.72 %
 ```
+
 <!--END_SECTION:waka-->
 
 <details>
