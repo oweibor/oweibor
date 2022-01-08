@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I ❤️ 🎵🏀
 - 🍄 Read more about my projects at [![Security Headers](https://img.shields.io/security-headers?label=tamarasoft.com&url=https%3A%2F%2Ftamarasoft.com)][website]
 
-### Connect with me:
+### Connect with me 👋🏾:
 
 <p align="left">
 <a href="https://twitter.com/tariri16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tamara" height="30" width="40" /></a>
