@@ -54,7 +54,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
 - [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
 - [Top 10 Web Hosting Companies to secure your WordPress website in 2022](https://tamarasoft.com/top-10-web-hosting-companies-for-your-wordpress-website-in-2022/)
@@ -76,13 +75,11 @@
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
-
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
-Markdown   ████████████████████████████████████████▓   98.92 %
+Markdown   ████████████████████████████████████████▓   98.92 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <details>
