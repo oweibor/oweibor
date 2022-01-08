@@ -10,7 +10,7 @@
 - 🎯 I’m looking to collaborate with other content creators
 - ✅ 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I ❤️ 🎵🏀
-- 🍄 Read more about my projects at [tamarasoft.com](https://www.tamarasoft.com/portfolio) ![Security Headers](https://img.shields.io/security-headers?style=flat-square&url=https%3A%2F%2Ftamarasoft.com)
+- 🍄 Read more about my projects at [![Security Headers](https://img.shields.io/security-headers?label=tamarasoft.com&url=https%3A%2F%2Ftamarasoft.com)][website]
 
 ### Connect with me:
 
