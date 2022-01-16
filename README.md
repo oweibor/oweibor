@@ -74,10 +74,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
+Week: 09 January, 2022 - 15 January, 2022
 
-Markdown   ███████████████████████████████████████░░   95.21 % 
-YAML       █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+
 ```
 <!--END_SECTION:waka-->
 
