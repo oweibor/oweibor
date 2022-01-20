@@ -61,7 +61,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [gitignore not working: A simple Step-by-step fix to ignore files or folders already committed to a git repo.](https://tamarasoft.com/gitignore-not-working-simple-step-by-step-fix-2022/)
+- [gitignore not working: A simple Step-by-step method to ignore files or folders already committed to a git repo](https://tamarasoft.com/gitignore-not-working-simple-step-by-step-fix-2022/)
 - [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
 - [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
 - [Top 10 Web Hosting Companies to secure your WordPress website in 2022](https://tamarasoft.com/top-10-web-hosting-companies-for-your-wordpress-website-in-2022/)
