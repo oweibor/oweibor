@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?label=TAMARASOFT.COM&style=for-the-badge&url=https%3A%2F%2Ftamarasoft.com)](https://www.tamarasoft.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tariri16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftariri16&screen_name=tariri16)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tamaraoweibo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftamaraoweibo&screen_name=tamaraoweibo)
 
 ### Hi there <a href="https://www.tamarasoft.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
@@ -15,7 +15,7 @@
 ### Connect with me 👋🏾:
 
 <p align="left">
-<a href="https://twitter.com/tariri16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tamara" height="30" width="40" /></a>
+<a href="https://twitter.com/tamaraoweibo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tamara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oweibor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tamara" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2097317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/realtamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -61,6 +61,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [gitignore not working: A simple Step-by-step method to ignore files or folders already committed to a git repo](https://tamarasoft.com/gitignore-not-working-simple-step-by-step-fix-2022/)
 - [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
 - [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
@@ -73,14 +74,16 @@
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 15 January, 2022 - 21 January, 2022
 
-JSON         ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░   33.74 % 
-Git Config   █████████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   33.11 % 
-PHP          █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   31.55 % 
-Other        ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON         ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░   33.74 %
+Git Config   █████████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   33.11 %
+PHP          █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   31.55 %
+Other        ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
+
 <!--END_SECTION:waka-->
 
 <details>
