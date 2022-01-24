@@ -74,7 +74,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 22 January, 2022
+Week: 17 January, 2022 - 23 January, 2022
 
 JSON         █████████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░   33.41 % 
 Git Config   █████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░   32.79 % 
