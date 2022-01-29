@@ -61,7 +61,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 20 WordPress Functions to memorize as a newbie WordPress Developer](https://tamarasoft.com/top-20-wordpress-functions-to-memorize-as-a-newbie-wordpress-developer/)
+- [Top 20 WordPress Functions to remember as a newbie WordPress Developer](https://tamarasoft.com/top-20-wordpress-functions-to-memorize-as-a-newbie-wordpress-developer/)
 - [gitignore not working: A simple Step-by-step method to ignore files or folders already committed to a git repo](https://tamarasoft.com/gitignore-not-working-simple-step-by-step-fix-2022/)
 - [TLS vs SSL: What’s the Difference? An in-depth Guide to HTTPS Migration &lpar;2022&rpar;.](https://tamarasoft.com/tls-vs-ssl-whats-the-difference-http-to-https-ultimate-guide/)
 - [5 Best WordPress Backup plugins &lpar;Pros and Cons&rpar;](https://tamarasoft.com/5-best-wordpress-backup-plugins-pros-and-cons/)
