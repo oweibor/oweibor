@@ -74,10 +74,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
-
-PHP          ████████████████████████████████████████░   97.87 % 
-Git Config   ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
