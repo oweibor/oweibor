@@ -75,7 +75,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 18 June 2022 - To: 25 June 2022
+
+JavaScript                   ███████████████████████░░   91.95 %
+PHP                          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 ```
 
 <!--END_SECTION:waka-->
