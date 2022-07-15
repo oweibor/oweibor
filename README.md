@@ -75,10 +75,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 July 2022 - To: 14 July 2022
-
-CSS                    ███████████████████████░░   91.58 %
-HTML                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
