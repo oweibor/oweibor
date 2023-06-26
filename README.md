@@ -7,9 +7,8 @@
 
 - 🍰 I am working on my first course, WordPress Development for non-Techies
 - 💪 I’m currently mastering the Angular framework and everything else🤣
-- 🎯 I’m looking to collaborate with other content creators
-- ✅ 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I ❤️ 🎵🏀
+- ✅ Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I ❤️ wp
 - 🍄 Read more about my projects at [![Security Headers](https://img.shields.io/security-headers?label=tamarasoft.com&url=https%3A%2F%2Ftamarasoft.com)][website]
 
 ### Connect with me 👋🏾:
